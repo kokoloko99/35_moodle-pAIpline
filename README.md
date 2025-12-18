@@ -1,22 +1,32 @@
-# 35_moodle-pAIpline
+5_moodle-pAIpline
 
-Prototype pipeline for AI-assisted creation of Moodle courses.
+Prototypische Pipeline zur KI-unterstützten Erstellung von Moodle-Kursen
 
-## Project Goal
-The goal of this project is to build a prototype pipeline that automatically generates Moodle courses
-(including learning materials and quizzes) using Large Language Models (LLMs).
+Projektziel
 
-## Technologies
-- Moodle
-- PHP
-- XML
-- LLMs (ChatGPT, Claude, Mistral, ...)
+Ziel dieses Projekts ist die Entwicklung einer prototypischen Pipeline, die mithilfe von Large Language Models (LLMs) automatisch Moodle-Kurse erstellt.
+Dazu zählen sowohl Lernmaterialien als auch Aufgaben und Quizze.
 
-## Sprint 1 Scope
-- Local Moodle setup
-- GitHub repository and team organization
-- Conceptual pipeline design
-- No automated generation yet
+Technologien
 
-## Team
-Group 35 – Innovation Lab
+Moodle
+
+PHP
+
+XML
+
+Large Language Models (z. B. ChatGPT, Claude, Mistral, …)
+
+Sprint-1-Umfang
+
+Lokale Moodle-Installation
+
+Einrichtung des GitHub-Repositories und Teamorganisation
+
+Konzeptionelles Pipeline-Design
+
+Noch keine automatische Kurserstellung
+
+Team
+
+Gruppe 35 – Innovation Lab
