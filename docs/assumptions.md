@@ -1,0 +1,3 @@
+- Moodle XML ist komplex
+- KI-Ausgabe muss strukturiert sein
+- Automatisierung wird iterativ erfolgen
